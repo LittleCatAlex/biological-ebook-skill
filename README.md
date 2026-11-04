@@ -12,6 +12,7 @@
 | **[`taiz-plant-physiology/`](taiz-plant-physiology/)** | *Plant Physiology* (5th Edition)<br>by Lincoln Taiz & Eduardo Zeiger | **全書 26 章 + 3 大附錄**<br>水分子運動、溶質轉運、光合光/暗反應、韌皮部運輸、二次代謝、植物荷爾蒙、光形態發生、逆境生理學 |
 | **[`sherwood-human-physiology/`](sherwood-human-physiology/)** | *Human Physiology: From Cells to Systems* (6th Edition)<br>by Lauralee Sherwood | **全書 20 章**<br>細胞膜電位、神經與自主神經系統、肌肉生理、心臟與循環、呼吸力學、腎臟水鹽平衡、消化吸收、內分泌與生殖系統 |
 | **[`cooper-cell-biology/`](cooper-cell-biology/)** | *The Cell: A Molecular Approach* (8th Edition)<br>by Geoffrey M. Cooper | **全書 20 章**<br>細胞分子與化學滲透、遺傳訊息流動（轉錄/剪接/轉譯/表觀調控）、核質運輸與胞器轉位、細胞骨架與力學、細胞訊息傳遞、細胞週期、幹細胞凋亡與癌症分子生物學 |
+| **[`janeway-immunobiology/`](janeway-immunobiology/)** | *Janeway's Immunobiology* (9th Edition)<br>by Kenneth Murphy & Casey Weaver | **全書 16 章 + 附錄一**<br>先天免疫、模式辨識(TLR/NLR)、抗原受體重排(V(D)J)、MHC抗原呈遞、淋巴球信號轉導與發育、T細胞與體液免疫整合、黏膜免疫、免疫缺陷(PID/AIDS)、超敏反應I-IV、自身免疫與移植、腫瘤免疫檢查點(PD-1/CTLA-4)、CAR-T、疫苗與免疫學家工具箱(ELISA/FACS/四聚體) |
 
 ---
 
@@ -47,6 +48,7 @@ cp -r campbell-biology ~/.agents/skills/
 cp -r taiz-plant-physiology ~/.agents/skills/
 cp -r sherwood-human-physiology ~/.agents/skills/
 cp -r cooper-cell-biology ~/.agents/skills/
+cp -r janeway-immunobiology ~/.agents/skills/
 ```
 
 ### 2. 安裝至 Google Antigravity 配置目錄
@@ -56,6 +58,7 @@ Copy-Item -Recurse campbell-biology "$HOME\.gemini\config\skills\"
 Copy-Item -Recurse taiz-plant-physiology "$HOME\.gemini\config\skills\"
 Copy-Item -Recurse sherwood-human-physiology "$HOME\.gemini\config\skills\"
 Copy-Item -Recurse cooper-cell-biology "$HOME\.gemini\config\skills\"
+Copy-Item -Recurse janeway-immunobiology "$HOME\.gemini\config\skills\"
 ```
 
 ---
