@@ -1,0 +1,54 @@
+# Campbell Biology Glossary — Core Terms & Definitions
+
+An alphabetical dictionary of key concepts, molecular terms, physiological structures, and ecological models from *Campbell Biology 12th Edition* (Urry et al.).
+
+- **Action Potential** — A rapid, transient, all-or-none reversal of membrane electrical potential across a neuron or muscle membrane driven by voltage-gated ion channels (Ch 48).
+- **Active Site** — The specific catalytic groove or pocket on an enzyme where substrate molecules bind and chemical catalysis occurs (Ch 08).
+- **Adaptive Radiation** — Period of rapid evolutionary divergence where ancestral organisms diversify into many ecologically specialized descendant species (Ch 24, Ch 25).
+- **Allosteric Regulation** — The binding of a regulatory ligand to a protein at an effector site distinct from the active site, inducing a conformational shift that alters catalytic activity (Ch 08).
+- **Alternation of Generations** — A life cycle characteristic of land plants where multicellular diploid sporophytes ($2n$) alternate with multicellular haploid gametophytes ($n$) (Ch 13, Ch 29).
+- **Apoptosis** — Programmed, genetically regulated cellular self-destruction mediated by caspase protease cascades without releasing harmful contents into surrounding tissue (Ch 11).
+- **ATP Synthase** — A rotary transmembrane enzyme complex that harnesses the potential energy of a proton-motive force across a membrane to synthesize ATP from ADP and inorganic phosphate (Ch 09, Ch 10).
+- **Autophagy** — A catabolic lysosomal recycling process where a cell degrades its own damaged organelles and cytosolic macromolecules (Ch 06).
+- **Bohr Shift** — The phenomenon where a decrease in pH or an increase in $P_{\text{CO}_2}$ lowers hemoglobin's affinity for oxygen, promoting $\text{O}_2$ release to active metabolizing tissues (Ch 42).
+- **Calvin Cycle** — The light-independent cyclic biochemical reactions in chloroplast stroma that fix atmospheric $\text{CO}_2$ into carbohydrate glyceraldehyde-3-phosphate (G3P) using ATP and NADPH (Ch 10).
+- **Carrying Capacity ($K$)** — The maximum sustainable population size of a species that a specific environment can support indefinitely given available resources (Ch 53).
+- **Cas9** — A bacterial CRISPR-associated RNA-guided endonuclease used as a precision genetic engineering tool to induce targeted double-strand DNA breaks (Ch 20).
+- **Central Dogma** — The directional framework of genetic information transfer: DNA is replicated and transcribed into RNA, which is translated into functional proteins (Ch 17).
+- **Chemiosmosis** — The energy-coupling mechanism where an electrochemical gradient of hydrogen ions across a membrane powers cellular work, predominantly ATP synthesis (Ch 09).
+- **Chiasma** — The X-shaped microscopic microscopic junction where physical homologous recombination (crossing over) occurred between non-sister chromatids during Prophase I of meiosis (Ch 13).
+- **Clade** — A monophyletic group on a phylogenetic tree that includes an ancestral species and all of its descendants (Ch 26).
+- **Clonal Selection** — The antigen-driven proliferation and differentiation of specific B or T lymphocytes into effector clones and long-lived memory cells (Ch 43).
+- **Competitive Inhibition** — A mode of enzyme inhibition where an inhibitor directly mimics the substrate and competes for binding at the catalytic active site (Ch 08).
+- **Countercurrent Exchange** — An anatomical arrangement of antiparallel fluid streams that maximizes thermal, gas, or solute diffusion efficiency by preserving concentration gradients along the entire contact length (Ch 40, Ch 42, Ch 44).
+- **Cyclin-Dependent Kinase (CDK)** — A family of serine/threonine protein kinases that regulate progression through cell cycle checkpoints only when bound to their regulatory cyclin subunits (Ch 12).
+- **Endomembrane System** — The interconnected network of internal cellular membranes (nuclear envelope, ER, Golgi, lysosomes, vesicles, plasma membrane) regulating protein traffic and metabolic processing (Ch 06).
+- **Endosymbiont Theory** — The foundational evolutionary model positing that mitochondria and plastids originated as engulfed free-living prokaryotes integrated symbiotically within an ancestral host cell (Ch 06, Ch 25).
+- **Epistasis** — A genetic phenomenon where the phenotypic expression of an allele at one gene locus masks or alters the phenotypic expression of an independent gene locus (Ch 14).
+- **Feedback Inhibition** — A homeostatic metabolic regulatory mechanism where the end-product of a biochemical pathway allosterically inhibits the pathway's initial commitment enzyme (Ch 08, Ch 40).
+- **Fluid Mosaic Model** — The structural model of biological membranes depicting amphipathic phospholipid bilayers in which integral and peripheral proteins drift laterally (Ch 07).
+- **G-Protein Coupled Receptor (GPCR)** — A seven-transmembrane cell-surface receptor that undergoes conformational activation upon ligand binding, activating an intracellular heterotrimeric G-protein (Ch 11).
+- **Gene Flow** — The transfer of genetic alleles between populations resulting from the migration of fertile individuals or their gametes, reducing genetic divergence (Ch 23).
+- **Genetic Drift** — Random, non-adaptive fluctuations in allele frequencies from generation to generation occurring predominantly in small populations due to chance sampling events (Ch 23).
+- **Hardy-Weinberg Equilibrium** — The mathematical null baseline stating that allele and genotype frequencies in a large, randomly mating population remain constant across generations in the absence of evolutionary forces (Ch 23).
+- **Homeobox (Hox Genes)** — A highly conserved 180-base-pair DNA sequence encoding a homeodomain transcription factor that dictates anterior-posterior anatomical axis patterning in animal development (Ch 21, Ch 47).
+- **Loop of Henle** — The U-shaped hairpin section of a mammalian nephron that creates a hyperosmotic renal medullary gradient via countercurrent multiplier mechanics to concentrate urine (Ch 44).
+- **Minimum Viable Population (MVP)** — The smallest population threshold capable of maintaining genetic diversity and surviving environmental stochasticity without collapsing into an extinction vortex (Ch 56).
+- **Mycorrhizae** — Mutualistic symbiotic associations formed between plant roots and soil fungal hyphae that dramatically enhance water and mineral absorption (especially phosphate) (Ch 31, Ch 37).
+- **Natural Selection** — Differential reproductive success of individuals possessing heritable phenotypic adaptations better suited to their immediate environment, driving adaptive evolution (Ch 01, Ch 22).
+- **Nephron** — The microscopic functional filtration and reabsorption unit of the vertebrate kidney comprising the glomerulus, Bowman's capsule, tubules, and collecting ducts (Ch 44).
+- **Non-disjunction** — An error during meiosis or mitosis where homologous chromosomes or sister chromatids fail to separate properly, resulting in aneuploid daughter cells (Ch 15).
+- **Operon** — A functional genetic unit in prokaryotes consisting of a cluster of coordinately regulated structural genes under the control of a single promoter and operator (Ch 18).
+- **Oxidative Phosphorylation** — The production of ATP using free energy derived from the redox transfer of electrons along an inner mitochondrial electron transport chain to oxygen (Ch 09).
+- **Phytochrome** — A reversible photoreceptor pigment in plants that interconverts between inactive red-absorbing ($P_r$) and active far-red-absorbing ($P_{fr}$) forms to regulate photoperiodic responses (Ch 39).
+- **Plasmodesmata** — Membrane-lined microscopic cytoplasmic channels perforating plant cell walls that allow direct intercellular symplastic transport of water, ions, and signaling molecules (Ch 06, Ch 36).
+- **Polygenic Inheritance** — An additive phenotypic effect of two or more independent genes resulting in a continuous quantitative character distribution in a population (Ch 14).
+- **Refractory Period** — The transient interval following an action potential during which a neuron membrane is either completely unexcitable (absolute) or requires a suprathreshold stimulus to fire (relative) (Ch 48).
+- **Restriction Enzyme** — A bacterial defense endonuclease that recognizes and cleaves double-stranded DNA at specific palindromic nucleotide sequences (Ch 20).
+- **RuBisCO** — Ribulose-1,5-bisphosphate carboxylase/oxygenase; the primary stromal enzyme catalyzing carbon dioxide fixation in the Calvin cycle (Ch 10).
+- **Signal Transduction Pathway** — A molecular relay cascade linking reception of an extracellular ligand to a specific cellular cytoplasmic or transcriptional response (Ch 11).
+- **Stoma (plural: Stomata)** — A microscopic pore in plant epidermis flanked by specialized guard cells that opens and closes to balance photosynthetic $\text{CO}_2$ uptake with transpirational water vapor loss (Ch 10, Ch 36).
+- **Sympatric Speciation** — The formation of new distinct biological species within the same geographic area without physical isolation, often mediated by polyploidy, habitat differentiation, or sexual selection (Ch 24).
+- **Trophic Efficiency** — The percentage of production energy transferred from one trophic level to the next, averaging approximately 10% across natural ecosystems (Ch 55).
+- **Water Potential ($\Psi$)** — The physical thermodynamic property measuring the free energy of water per unit volume relative to pure water at standard conditions, determining spontaneous flow direction (Ch 36).
+- **Xylem** — Specialized vascular plant tissue comprising dead lignified tracheids and vessel elements that transports water and dissolved inorganic ions under negative tension (Ch 35, Ch 36).
